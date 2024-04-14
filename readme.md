@@ -5,3 +5,10 @@
 4. Comando para poder agregar anotacion de lo que se hizo `git commit -m -""`
 5. Eliminar archivo desde git `git rm archivo1.txt`
 6. Deshacer lo que hicimos `git restore --stage archivo_eliminado.txt`
+7. Permite renombrar un archivo en git`git mv archivo1.txt archivo.txt`
+8. Ignorar archivos, crear un .gitignore que excluira lo que queramos de un proyecto 
+9. Ver el estado de los archivos `git status -s` 
+10. Ver los cambios que estamos haciendo`git diff`
+11. Ver  el historial de los cambios `git log --oneline`
+12. Ver rama `git branch `
+13. Crear una rama `git checkout -b ramab`
