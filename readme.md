@@ -15,4 +15,6 @@
 14. git branch rama1, git branch -m rama rama1
 15. Cambiar entre ramas `git branch checkout ramab`
 16. Eliminar rama `git branch -d rama1`
-17. git merge union  de ramas
+17. git merge union  de ramas 
+18. comparar ramagit diff
+19. unificar ramas git merge
