@@ -13,6 +13,6 @@
 12. Ver rama `git branch `
 13. Crear una rama `git checkout -b ramab`
 14. git branch rama1, git branch -m rama rama1
-15. git branch checkout ramab
-16. git branch -d rama1
-17
+15. Cambiar entre ramas `git branch checkout ramab`
+16. Eliminar rama `git branch -d rama1`
+17. git merge union  de ramas
